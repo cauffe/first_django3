@@ -1,0 +1,609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"test_dict	statement"
+			],
+			[
+				"comment",
+				"comment	Django template comment"
+			],
+			[
+				"compa",
+				"company_profile"
+			],
+			[
+				"new",
+				"new_user	statement"
+			],
+			[
+				"Company",
+				"CompanyDetails	class"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"if",
+				"if	Django template if statement"
+			],
+			[
+				"las",
+				"last_name	statement"
+			],
+			[
+				"firs",
+				"first_name	statement"
+			],
+			[
+				"CONS",
+				"CONSUMER_SECRET	statement"
+			],
+			[
+				"CONSUMER",
+				"CONSUMER_SECRET"
+			],
+			[
+				"Custom",
+				"CustomUserChangeForm"
+			],
+			[
+				"User",
+				"UserChangeForm"
+			],
+			[
+				"is_",
+				"is_superuser"
+			],
+			[
+				"md",
+				"mdatetime	DateTimeField (mdatetime)"
+			],
+			[
+				"speed_ob",
+				"speed_objects"
+			],
+			[
+				"LOGIN",
+				"LOGIN_REDIRECT_URL"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"down",
+				"down_votes"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"con",
+				"context_instance"
+			],
+			[
+				"list",
+				"list_view"
+			],
+			[
+				"au",
+				"authenticate"
+			],
+			[
+				"cleaned",
+				"cleaned_data"
+			],
+			[
+				"f",
+				"fimg	ImageField (fimg)"
+			],
+			[
+				"lis",
+				"list_view"
+			],
+			[
+				"Imag",
+				"ImageUser"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"searc",
+				"search_string"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"context",
+				"context_processors"
+			],
+			[
+				"http",
+				"HttpResponse"
+			],
+			[
+				"Model",
+				"ModelForm	ModelForm"
+			],
+			[
+				"artist",
+				"artist_handle"
+			],
+			[
+				"all",
+				"all_brands"
+			],
+			[
+				"manu",
+				"manu_detail"
+			],
+			[
+				"Cre",
+				"CreateCereal"
+			],
+			[
+				"C",
+				"CreateCereal"
+			],
+			[
+				"cereal",
+				"cereal_create"
+			],
+			[
+				"cerea",
+				"cereal_create"
+			],
+			[
+				"contex",
+				"context_instance"
+			],
+			[
+				"render",
+				"render_to_response"
+			],
+			[
+				"Cereal",
+				"CerealSearch"
+			],
+			[
+				"Cere",
+				"CerealSearch"
+			],
+			[
+				"ce",
+				"cereal_detail"
+			],
+			[
+				"c",
+				"cereals"
+			],
+			[
+				"man",
+				"manufacturer"
+			],
+			[
+				"ma",
+				"manufacturer"
+			],
+			[
+				"sta",
+				"states"
+			],
+			[
+				"state",
+				"state_obj"
+			],
+			[
+				"cap",
+				"capital_obj"
+			],
+			[
+				"ca",
+				"capital_obj"
+			],
+			[
+				"State",
+				"StateCapital"
+			],
+			[
+				"sate",
+				"state_obj"
+			],
+			[
+				"stuff",
+				"stuff_string"
+			],
+			[
+				"name",
+				"name_string"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/charles/Development/projects/first_django/first_django.sublime-project",
+			"settings":
+			{
+				"buffer_size": 290,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"indent",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/charles/Development/projects/first_django",
+		"/Users/charles/Development/projects/first_django/main",
+		"/Users/charles/Development/projects/first_django/project"
+	],
+	"file_history":
+	[
+		"/Users/charles/Development/projects/first_django.sublime-project",
+		"/Users/charles/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/charles/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/charles/Development/python_to_bytecode.pyc",
+		"/Users/charles/.bash_profile",
+		"/Volumes/Data Rescue 4.2 (5152.43.14)/Info.pdf",
+		"/Users/charles/Development/projects/kelifa/monaqsa/main/templates/blog-fullwidth.html",
+		"/Users/charles/Library/Logs/AndroidStudio1.3/idea.log",
+		"/Users/charles/Downloads/_Caseyface_181pics_30vids_www.caiunanetxxx.com/The Sauce.URL",
+		"/Users/charles/Desktop/Charless-MacBook-Pro.local.err",
+		"/Users/charles/Desktop/cstorm_mac_iceland.ovpn.txt",
+		"/Users/charles/Downloads/cstorm_linux_iceland_1-4.conf",
+		"/Users/charles/Development/projects/angular-phonecat/app/js/filters.js",
+		"/Users/charles/Development/projects/RecipEasy-Frontend/app/modules/recipes/controllers/recipes-list.js",
+		"/Users/charles/Development/projects/RecipEasy-Frontend/app/modules/recipes/controllers/recipe-detail.js",
+		"/Users/charles/Development/projects/RecipEasy-Frontend/app/modules/recipes/templates/recipes-list.html",
+		"/Users/charles/Development/projects/RecipEasy-Frontend/app/modules/recipes/templates/recipe-preview-modal.html",
+		"/Users/charles/Development/projects/RecipEasy-Frontend/app/modules/recipes/templates/recipe-detail-modal.html",
+		"/Users/charles/Development/projects/RecipEasy-Frontend/app/modules/recipes/models/ingredient.js",
+		"/Users/charles/Development/projects/RecipEasy-Frontend/app/modules/navigation/navigation.js",
+		"/Users/charles/Development/projects/RecipEasy-Frontend/app/modules/navigation/navigation.html",
+		"/Users/charles/Development/projects/RecipEasy-Frontend/app/modules/auth/templates/registration.html",
+		"/Users/charles/Development/projects/django_states/django_states/scripts/states.py",
+		"/Applications/PyCharm.app/Contents/Info.plist",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/2D7306A6-916C-4B0A-8124-C19F3664A30F/master.html",
+		"/Users/charles/Development/scrape3.py",
+		"/Users/charles/Development/scrape2.py",
+		"/Users/charles/Development/projects/speedproject1/speedproject1.sublime-project",
+		"/Users/charles/Development/projects/speedproject1/speedproject.sublime-project",
+		"/Users/charles/Development/projects/speedproject1/main/models.py",
+		"/Users/charles/Development/projects/speedproject1/main/forms.py",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/D2BCF262-EA0E-4699-BC8A-FF49DA607582/home.html",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/A7AEAE38-AA75-4697-B52A-3458F867F523/master.html",
+		"/Users/charles/Development/projects/Pictures/project/urls.py",
+		"/Users/charles/Development/projects/Pictures/main/admin.py",
+		"/Users/charles/Development/projects/Pictures/main/forms.py",
+		"/Users/charles/Development/projects/Pictures/main/templates/base.html",
+		"/Users/charles/Development/projects/Pictures/main/templates/create_view2.html",
+		"/Users/charles/Development/projects/Pictures/main/templates/create_view1.html",
+		"/Users/charles/Development/projects/Pictures/main/templates/list_view.html",
+		"/Users/charles/Development/projects/Pictures/main/templates/detail_view.html",
+		"/Users/charles/Development/projects/Pictures/main/views.py",
+		"/Users/charles/Development/projects/Pictures/main/models.py",
+		"/Users/charles/Development/projects/Pictures/main/templates/create_view.html",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/DD89B03F-7585-437E-8164-9A784C12BEEC/master.html",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/8890817A-7956-47E1-B357-2F3C0D44103F/billing.html",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/3A33A596-E214-4F31-AE05-C75B34DF3B00/urls.py",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/A1D4FD03-3C54-47ED-AF28-27391232CAD5/register.html",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/A066AA74-DD1A-4293-9777-98443A5FCF7D/models.py",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/247B69D1-B16A-45B2-B87D-7FC1510A106E/forms.py",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/1A5A823C-F7BB-4658-97E3-A69B5E64E109/views.py",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/D4643B8A-CCDC-4613-B1A9-4CC8C22675B8/membership.html",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/235EE7D5-BE8D-4029-8C38-30304B4DE5DD/billing.html",
+		"/Users/charles/Desktop/test.html",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/28FD6A39-9998-4AB1-B997-63771B5E7856/views.py",
+		"/Users/charles/Development/dicts.py",
+		"/Users/charles/Library/Application Support/Sublime Text 3/Packages/JSON Reindent/JSONReindent.sublime-settings",
+		"/Users/charles/Desktop/untitled.json",
+		"/Users/charles/Development/projects/cereal1/main/templates/signup.html",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/03FF2531-6C21-4AC4-AD06-F7887170B338/atepsm.org.conf",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/B1060544-4E97-4F53-B193-251FFD0A57D6/urls.py",
+		"/private/var/folders/mn/fvjnxw6n79s1hx1lwc8gxf2w0000gn/T/Cleanup At Startup/59BDFD0F-01A3-4525-BAFE-5EA59B5773A1/views.py",
+		"/Users/charles/Development/projects/cereal/main/forms.py",
+		"/Users/charles/Development/projects/cereal/main/models.py",
+		"/Users/charles/Development/python_to_bytecode.py",
+		"/Users/charles/Downloads/motorxloo_target_ax10_masterfeed.csv"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":",
+			" />",
+			"required",
+			"=",
+			" ",
+			"null=False",
+			"False",
+			"user",
+			"ingredients",
+			"add-recipe",
+			"',\n",
+			"def login",
+			"login",
+			"ng-",
+			"catApp",
+			"phone",
+			"Phone",
+			"phone",
+			" }}",
+			"http.request",
+			"pt1:t1",
+			"RTRANS_SHOW_SEC",
+			"%3D",
+			"%2C",
+			"%2F",
+			"%2",
+			"1",
+			"up",
+			"posts",
+			"speed_object",
+			"posts",
+			"mission_image",
+			"acresis",
+			"normal bold bordered bordered-small mission_title",
+			"Footer",
+			"down",
+			"create_view2",
+			"):\n",
+			"Image",
+			"png",
+			"http:",
+			"http",
+			"{{ STATIC_URL }}",
+			"billing",
+			"name=\"cert\"",
+			"amount",
+			"style=\"width:110%;\"",
+			"style=\"margin-left:-15px;\"",
+			"zip_code",
+			"street",
+			"json",
+			"\"",
+			"not",
+			"#0099cc",
+			"#33a6cc",
+			":active",
+			"#007299",
+			"#267c99",
+			"main_menu",
+			"body",
+			"CreateCereal",
+			"Sacramento",
+			"’",
+			"name’",
+			"‘",
+			"’",
+			"”",
+			"orm_view2",
+			"City",
+			"city",
+			"City",
+			"city",
+			"citySearch",
+			"null=True"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/charles/Development/projects/first_django/first_django.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "first_django.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
